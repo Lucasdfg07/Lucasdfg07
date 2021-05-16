@@ -6,8 +6,6 @@
 
 Full-Stack focused in Ruby on Rails | Software engineer :robot:
 
-Writer on OneBitCode Blog :man_technologist:
-
 Lover of Technology and coding :heart:
 
 
